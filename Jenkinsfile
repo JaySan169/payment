@@ -2,3 +2,4 @@
 
 env.COMPONENT="payment"
 env.APPTYPE="python"
+python()
